@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(255, 230, 0);
+}
+
+.vertical-center {
+    margin-top: 23%;
+    display: flex;
+    justify-content: space-around;
+}
+
+#btn{
+    margin-top: -3%;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 40px;
+    border-radius: 5px;
+}
